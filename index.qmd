@@ -1,15 +1,23 @@
-title: "Kona Dog"
-image: kona.png
+---
+title: "Walker Fryar"
+
+image: IMG_5335.jpeg
+
+
 about: 
   template: trestles
   image-shape: rounded
   image-width: 15em
   links:
     - text: LinkedIn
-      href: https://www.linkedin.com/in/konadog/
-    - text: Twitter
-      href: https://twitter.com/konadog
+      href: https://www.linkedin.com/in/walker-fryar-044899324/
     - text: GitHub
-      href: https://github.com/konadog
+      href: https://github.com/WalkerF100
     - text: Email
-      href: mailto:konadog@colostate.edu
+      href: mailto:walker.fryar@colostate.edu 
+---
+
+
+Hello, my name is Walker Fryar, and I'm a student at Colorado State University. I'm currently working towards a Professional Science Master's in Ecosystem Science and Sustainability with a focus in Sustainable Food Systems. With my degree, I am planning on going into agricultural consulting to help farmers and ranchers implement more sustainable practices.
+
+Feel free to explore this website to learn more about me and my experiences!

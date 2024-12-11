@@ -1,0 +1,45 @@
+---
+title: Travels
+lightbox: true
+---
+
+::: {layout-ncol=3}
+
+![](IMG_3787.jpeg){group="my-group"}
+
+![](BadlandsRainbow.jpeg){group="my-group"}
+
+![](IMG_4152.jpeg){group="my-group"}
+
+![](IMG_4198.jpeg){group="my-group"}
+
+![](IMG_4632.jpeg){group="my-group"}
+
+![](IMG_0503.jpeg){group="my-group"}
+
+![](IMG_4090.jpeg){group="my-group"}
+
+![](IMG_4100.jpeg){group="my-group"}
+
+![](IMG_4165.jpeg){group="my-group"}
+
+![](IMG_4194.jpeg){group="my-group"}
+
+![](4.jpg){group="my-group"}
+
+![](10.jpg){group="my-group"}
+
+![](C2.1.jpg){group="my-group"}
+
+![](IMG_1350.jpg){group="my-group"}
+
+![](IMG_1347.jpg){group="my-group"}
+
+![](IMG_1160.jpg){group="my-group"}
+
+![](IMG_1291.jpg){group="my-group"}
+
+![](PC135236.jpeg){group="my-group"}
+
+
+:::

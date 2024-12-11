@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Personal Website",
+    "objectID": "Education.html",
+    "href": "Education.html",
+    "title": "Education",
     "section": "",
-    "text": "title: “Walker Fryar” image: BadlandsRainbow.jpeg about: template: trestles image-shape: rounded image-width: 15em links: - text: LinkedIn href: https://www.linkedin.com/in/konadog/ - text: Twitter href: https://twitter.com/konadog - text: GitHub href: https://github.com/konadog - text: Email href: mailto:konadog@colostate.edu"
+    "text": "Colorado State University\n\nAugust 2024 - Present PSM Ecosystem Science and Sustainability - Sustainable Food Systems\n\nUniversity of Colorado Boulder\n\nJanuary 2021 - May 2023 BA Environmental Studies Minor in Ecology and Evolutionary Biology\n\nTexas A&M Corpus Christi\n\nAugust 2019 - May 2020"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Cats.html",
+    "href": "Cats.html",
+    "title": "My Cats",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "These are my cats (left to right), Sylvester and Nox. Sylvester is 5 years old, loves to annoy his sister, Nox, and hates the vacuum. Nox is 8 years old, loves to sleep by the window, and hates her brother, Sylvester."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Walker Fryar",
+    "section": "",
+    "text": "Hello, my name is Walker Fryar and I’m a student at Colorado State University. I’m currently working towards a Professional Science Master’s in Ecosystem Science and Sustainability with a focus in Sustainable Food Systems. With my degree I am planning on going into agricultural consulting to help farmers and ranchers implement more sustainable practices.\nFeel free to explore this website to learn more about me and my experiences!"
   }
 ]

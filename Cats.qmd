@@ -1,0 +1,13 @@
+---
+title: My Cats
+lightbox: true
+---
+
+These are my cats (left to right), Sylvester and Nox. Sylvester is 5 years old, loves to annoy his sister, Nox, and hates the vacuum. Nox is 8 years old, loves to sleep by the window, and hates her brother, Sylvester. 
+
+::: {layout-ncol=3} 
+![](IMG_4249.jpeg){group="my-group"}
+
+![](IMG_4714.jpeg){group="my-group"}
+
+:::
