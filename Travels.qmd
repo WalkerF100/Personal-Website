@@ -2,6 +2,38 @@
 title: Travels
 lightbox: true
 ---
+I love to travel and try to do it every chance I get. I'm currently trying to visit every unit in the National Park Service system. So far I have visited 45 out of the 432 units.
+These images show many of the places I have traveled.
+
+The order is as followed:
+
+Isle Royale NP 2024
+
+Badlands NP 2016
+
+Glacier NP 2023 (Images 3 -4)
+
+Mount Rushmore 2024
+
+Boulder CO 2022
+
+Crater Lake NP 2021
+
+Blue Mountains, Australia 2022 (Images 8-10)
+
+The Great Barrier Reef 2022
+
+Devil's Tower National Monument
+
+Zion NP 2018
+
+Arches NP 2018
+
+Redwood NP 2021
+
+San Francisco 2019
+
+Oregon Coast 2021
 
 ::: {layout-ncol=3}
 
@@ -11,19 +43,21 @@ lightbox: true
 
 ![](IMG_4152.jpeg){group="my-group"}
 
-![](IMG_4198.jpeg){group="my-group"}
+![](IMG_4090.jpeg){group="my-group"}
 
 ![](IMG_4632.jpeg){group="my-group"}
 
 ![](IMG_0503.jpeg){group="my-group"}
 
-![](IMG_4090.jpeg){group="my-group"}
-
 ![](IMG_4100.jpeg){group="my-group"}
 
 ![](IMG_4165.jpeg){group="my-group"}
 
+![](IMG_4198.jpeg){group="my-group"}
+
 ![](IMG_4194.jpeg){group="my-group"}
+
+![](PC135236.jpeg){group="my-group"}
 
 ![](4.jpg){group="my-group"}
 
@@ -38,8 +72,5 @@ lightbox: true
 ![](IMG_1160.jpg){group="my-group"}
 
 ![](IMG_1291.jpg){group="my-group"}
-
-![](PC135236.jpeg){group="my-group"}
-
 
 :::
